@@ -1,0 +1,15 @@
+C:\Users\ADVOCATE ROTIMI\Desktop\RevisionApp\bin\Debug\net6.0\RevisionApp.exe
+C:\Users\ADVOCATE ROTIMI\Desktop\RevisionApp\bin\Debug\net6.0\RevisionApp.deps.json
+C:\Users\ADVOCATE ROTIMI\Desktop\RevisionApp\bin\Debug\net6.0\RevisionApp.runtimeconfig.json
+C:\Users\ADVOCATE ROTIMI\Desktop\RevisionApp\bin\Debug\net6.0\RevisionApp.dll
+C:\Users\ADVOCATE ROTIMI\Desktop\RevisionApp\bin\Debug\net6.0\RevisionApp.pdb
+C:\Users\ADVOCATE ROTIMI\Desktop\RevisionApp\obj\Debug\net6.0\RevisionApp.csproj.AssemblyReference.cache
+C:\Users\ADVOCATE ROTIMI\Desktop\RevisionApp\obj\Debug\net6.0\RevisionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADVOCATE ROTIMI\Desktop\RevisionApp\obj\Debug\net6.0\RevisionApp.AssemblyInfoInputs.cache
+C:\Users\ADVOCATE ROTIMI\Desktop\RevisionApp\obj\Debug\net6.0\RevisionApp.AssemblyInfo.cs
+C:\Users\ADVOCATE ROTIMI\Desktop\RevisionApp\obj\Debug\net6.0\RevisionApp.csproj.CoreCompileInputs.cache
+C:\Users\ADVOCATE ROTIMI\Desktop\RevisionApp\obj\Debug\net6.0\RevisionApp.dll
+C:\Users\ADVOCATE ROTIMI\Desktop\RevisionApp\obj\Debug\net6.0\refint\RevisionApp.dll
+C:\Users\ADVOCATE ROTIMI\Desktop\RevisionApp\obj\Debug\net6.0\RevisionApp.pdb
+C:\Users\ADVOCATE ROTIMI\Desktop\RevisionApp\obj\Debug\net6.0\RevisionApp.genruntimeconfig.cache
+C:\Users\ADVOCATE ROTIMI\Desktop\RevisionApp\obj\Debug\net6.0\ref\RevisionApp.dll
